@@ -3,7 +3,7 @@ import { MdOutlineMail } from "react-icons/md";
 export default function NavbarComponent() {
   return (
     <nav className="md:px-10 mb-4">
-      <div className="border-b-[0.1px] border-gray-800 p-6 flex justify-between items-center">
+      <div className=" p-6 flex justify-between items-center">
         <div className="flex gap-3 items-center">
           <div className="bg-[#242424] rounded-full border-[0.1px] border-gray-700 p-2">
             <MdOutlineMail color="f0ffff" size={17} />
