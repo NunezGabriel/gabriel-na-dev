@@ -15,7 +15,7 @@ export default function InfoContainer() {
         </p>
       </section>
 
-      <button className="bg-[#242424] flex justify-center items-center gap-2 py-3 px-10 border-[0.1px] border-gray-700 hover:text-white ease-in-out duration-300 ">
+      <button className="rounded-lg bg-[#242424] flex justify-center items-center gap-2 py-3 px-10 border-[0.1px] border-gray-700 hover:text-white ease-in-out duration-300 ">
         Download CV
         <RiFileDownloadLine color="fffff" size={19} />
       </button>
