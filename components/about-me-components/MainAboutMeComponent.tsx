@@ -4,7 +4,7 @@ import InfoContainer from "@/components/about-me-components/InfoContainer";
 import NavbarComponent from "@/components/about-me-components/NavbarComponent";
 export default function MainAboutMeComponent() {
   return (
-    <div className="mx-auto max-w-[1400px]">
+    <div className="mx-auto max-w-[1800px]">
       <NavbarComponent />
       <InfoContainer />
       <Aboutme />
