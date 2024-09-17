@@ -53,16 +53,16 @@ body {
 .green-gradient {
   background-image: repeating-linear-gradient(
     45deg,
-    #00ff26,
-    rgb(0, 255, 85),
-    rgb(255, 255, 0),
+    #00ff77,
+    #1cff95,
+    rgb(0, 255, 204),
     rgb(0, 255, 170),
-    #00ff26
+    #1cff95
   );
   background-size: 800% 800%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: rainbow 10s ease infinite;
+  animation: rainbow 6s ease infinite;
 }
 /*-----------------------------------------------*/
 .bentos-container:hover .gradient-text-color {
