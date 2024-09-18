@@ -7,7 +7,7 @@ import BentoSkills from "@/components/BentoSkills";
 
 export default function Home() {
   return (
-    <div className="max-w-[2400px] w-full h-[100vh] grid gap-6 grid-cols-4 grid-rows-2 p-9">
+    <div className="max-w-[2400px] mx-auto w-full h-[100vh] grid gap-10 grid-cols-4 grid-rows-2 p-9">
       <BentoAboutMe />
       <BentoExperience />
       <BentoSkills />

@@ -12,7 +12,7 @@ export default function InfoContainer() {
         <p className="text-lg font-extralight md:text-lg lg:text-3xl">
           Hi. I'm Gabriel{" "}
         </p>
-        <p className="text-4xl font-black green-gradient lg:text-6xl">
+        <p className="text-4xl font-black green-gradient py-4 lg:text-6xl">
           Software Developer, Crafting nice solutions through code.
         </p>
       </section>
